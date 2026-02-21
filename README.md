@@ -185,13 +185,7 @@ The app will be available at **http://localhost:5173**
 
 ---
 
-## UI Theme
 
-- **Colors:** Sky Blue (`#0ea5e9`), Lavender (`#a78bfa`), Dark (`#111827`)
-- **Font:** System sans-serif
-- **Style:** Dark mode glassmorphism with gradient accents
-
----
 
 ##  User Roles
 
