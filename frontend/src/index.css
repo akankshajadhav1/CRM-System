@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+    --color-crm-black: #0f172a;
+    /* Slate 900 */
+    --color-crm-dark: #1e293b;
+    /* Slate 800 */
+    --color-crm-sky: #0ea5e9;
+    /* Sky 500 */
+    --color-crm-lavender: #a78bfa;
+    /* Violet 400 */
+    --color-crm-text: #f8fafc;
+    /* Slate 50 */
+}
+
+@layer base {
+    body {
+        background-color: var(--color-crm-black);
+        color: var(--color-crm-text);
+    }
+}

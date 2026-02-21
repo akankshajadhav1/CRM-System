@@ -1,0 +1,35 @@
+#POST http://localhost:8080/api/register
+{
+  "fullName": "diksha",
+  "email": "diksha@gmail.com",
+  "password": "1234",
+  "role": "user"
+}
+
+#POST http://localhost:8080/api/login
+  {
+  "email": "diksha@gmail.com",
+  "password": "1234"
+  }
+
+#POST http://localhost:8080/api/customers
+ {
+  "name": "sakshi",
+  "email": "sakshi@gmail.com",
+  "phone": "9876543210"
+}
+
+# POST http://localhost:8080/api/sales
+
+{
+  "product": "CRM License2",
+  "amount": 78000,
+  "date": "2026-02-28",
+  "customer": {
+    "id": 2
+  }
+}
+
+#POST http://localhost:8080/api/dashboard
+
+#POST http://localhost:8080/api/purchases
