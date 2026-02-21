@@ -6,39 +6,39 @@ A full-stack **Customer Relationship Management (CRM)** web application built wi
 
 ## Features
 
-### 🔐 Authentication
+### Authentication
 - User registration and login
 - JWT-based token authentication
 - Role-based access: **Admin** and **Sales Rep**
 - Protected routes on the frontend
 
-### 👥 Customer Management
+### Customer Management
 - Add, edit, and delete customers
 - Fields: Name, Email, Phone, Company, Address, Notes, Assigned Sales Rep
 
-### 📊 Leads Pipeline
+###  Leads Pipeline
 - Track leads through stages: **New → Contacted → Converted → Lost**
 - Filter leads by status
 - Assign leads to sales reps
 
-### ✅ Task Management
+### Task Management
 - Create and assign tasks with priority levels (High / Medium / Low)
 - Mark tasks as **Completed** with one click
 - Set due dates and track assignments
 
-### 💼 Sales Pipeline
+### Sales Pipeline
 - Track deals across stages: **Proposal → Negotiation → Closed-Won / Closed-Lost**
 - Record deal amount, date, and assigned rep
 - Clean table view with stage badges
 
-### 📈 Dashboard
+### Dashboard
 - Revenue analytics bar chart
 - Leads growth line chart
 - Overview cards: Total Revenue, Active Leads, Pending Tasks
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -50,7 +50,7 @@ A full-stack **Customer Relationship Management (CRM)** web application built wi
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CRM-System/
@@ -82,7 +82,7 @@ CRM-System/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - Java 17+
@@ -137,7 +137,7 @@ The app will be available at **http://localhost:5173**
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### Auth
 | Method | Endpoint | Description |
@@ -185,7 +185,7 @@ The app will be available at **http://localhost:5173**
 
 ---
 
-## 🎨 UI Theme
+## UI Theme
 
 - **Colors:** Sky Blue (`#0ea5e9`), Lavender (`#a78bfa`), Dark (`#111827`)
 - **Font:** System sans-serif
@@ -193,7 +193,7 @@ The app will be available at **http://localhost:5173**
 
 ---
 
-## 👤 User Roles
+##  User Roles
 
 | Role | Access |
 |---|---|
