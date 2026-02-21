@@ -4,7 +4,7 @@ A full-stack **Customer Relationship Management (CRM)** web application built wi
 
 ---
 
-## 🚀 Features
+## Features
 
 ### 🔐 Authentication
 - User registration and login
@@ -201,3 +201,21 @@ The app will be available at **http://localhost:5173**
 | `SALES` | Access to assigned leads, tasks, and customers |
 
 ---
+## View
+<img width="1470" height="956" alt="Screenshot 2026-02-21 at 1 03 50 PM" src="https://github.com/user-attachments/assets/3e552de7-7936-415c-81d2-e4f7f9b5f39c" />
+
+<img width="1470" height="956" alt="Screenshot 2026-02-21 at 1 05 01 PM" src="https://github.com/user-attachments/assets/0527c3aa-46e2-48e6-b978-7cf14376a169" />
+
+
+<img width="1470" height="956" alt="Screenshot 2026-02-21 at 1 05 08 PM" src="https://github.com/user-attachments/assets/ea5994b0-803b-4635-8b7d-590ce58d58d4" />
+
+
+<img width="1470" height="956" alt="Screenshot 2026-02-21 at 1 05 42 PM" src="https://github.com/user-attachments/assets/39970283-241c-4a6c-9423-8a88737eed12" />
+
+<img width="1470" height="956" alt="Screenshot 2026-02-21 at 1 06 01 PM" src="https://github.com/user-attachments/assets/6678f4d7-7d88-417f-bc33-3134fc72ad98" />
+
+
+<img width="1470" height="956" alt="Screenshot 2026-02-21 at 1 06 20 PM" src="https://github.com/user-attachments/assets/5fd3d883-ce45-45da-aa18-7ab638faf691" />
+
+
+
