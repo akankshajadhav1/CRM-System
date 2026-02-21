@@ -201,7 +201,3 @@ The app will be available at **http://localhost:5173**
 | `SALES` | Access to assigned leads, tasks, and customers |
 
 ---
-
-## 📜 License
-
-This project was built as part of a **SkyBrisk Internship** project.
